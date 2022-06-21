@@ -66,9 +66,9 @@ const bis = 213
 
 // --- ex-4
 
-const password = 'azerty'
-const limit = 50
-const score = 64
+// const password = 'azerty'
+// const limit = 50
+// const score = 64
 
 // if (password.length === 6 && (score > limit)) {
 
@@ -89,3 +89,37 @@ const score = 64
 //     console.log("Nothing is good");
 // }
 
+
+// ---- ex -5
+
+
+// const random = Math.round(Math.random() * 6)
+
+// if (random === 6) {
+//     console.log("Yes I win");
+
+// } else {
+//     console.log("So close");
+// }
+
+
+
+// ---- ex-6
+
+const month = "Winter"
+
+switch (month) {
+    case "Winter":
+        console.log("It's winter now");
+        break;
+    case "Spring":
+        console.log("It's winter now");
+        break;
+    case "Summer":
+        console.log("It's summer now");
+        break;
+
+    default:
+        console.log("Fall");
+        break;
+}
