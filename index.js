@@ -140,6 +140,40 @@ const bis = 213
 // }
 
 
+// ---- ex-8
+
+
+
+const number = 45.3
+const myString = number.toString()
+const pointPosition = myString.indexOf('.') + 1
+const myNumber = myString.substring(pointPosition)
+const newString = Number(myNumber)
+
+if (newString >= 5) {
+    console.log(Math.ceil(number));
+} else {
+    console.log(Math.floor(number));
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
