@@ -23,12 +23,32 @@ const bis = 213
 
 // if (test !==143) {
 //     console.log("this is false");
-    
+
 // }
 
 // if (test != bis) {
 //     console.log("this is true");
-    
+
 // }
+
+
+
+// --- ex -2
+
+const limit = 50
+const score = 64
+
+// if (score >= limit) {
+//     console.log("OK Good!");
+// } else {
+//     console.log("Oh nooo!!");
+// }
+
+if (limit >= score) {
+    console.log("Ok good!");
+
+} else {
+    console.log("OH nooo");
+}
 
 
