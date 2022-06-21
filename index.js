@@ -35,8 +35,8 @@ const bis = 213
 
 // --- ex -2
 
-const limit = 50
-const score = 64
+// const limit = 50
+// const score = 64
 
 // if (score >= limit) {
 //     console.log("OK Good!");
@@ -64,6 +64,28 @@ const score = 64
 // }
 
 
+// --- ex-4
 
+const password = 'azerty'
+const limit = 50
+const score = 64
 
+// if (password.length === 6 && (score > limit)) {
+
+//     console.log("Everithing is good");
+
+// }
+
+// if (password.length === 5 || (score > limit)) {
+
+//     console.log("Something is good");
+
+// }
+
+// if (password.length === 5 || (limit > score)) {
+//     console.log("everithisng is good");
+
+// } else {
+//     console.log("Nothing is good");
+// }
 
