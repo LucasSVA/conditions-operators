@@ -106,20 +106,42 @@ const bis = 213
 
 // ---- ex-6
 
-const month = "Winter"
+// const month = "Winter"
 
-switch (month) {
-    case "Winter":
-        console.log("It's winter now");
-        break;
-    case "Spring":
-        console.log("It's winter now");
-        break;
-    case "Summer":
-        console.log("It's summer now");
-        break;
+// switch (month) {
+//     case "Winter":
+//         console.log("It's winter now");
+//         break;
+//     case "Spring":
+//         console.log("It's winter now");
+//         break;
+//     case "Summer":
+//         console.log("It's summer now");
+//         break;
 
-    default:
-        console.log("Fall");
-        break;
-}
+//     default:
+//         console.log("Fall");
+//         break;
+// }
+
+
+// ---- ex- 7
+
+// const roundedNumber = 3.8
+
+// if ((roundedNumber - Math.floor(roundedNumber) < (Math.ceil(roundedNumber) - roundedNumber))) {
+
+
+//     console.log(Math.floor(roundedNumber));
+
+// } else {
+//     console.log(Math.ceil(roundedNumber));
+
+// }
+
+
+
+
+
+
+
