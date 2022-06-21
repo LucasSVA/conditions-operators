@@ -44,11 +44,26 @@ const score = 64
 //     console.log("Oh nooo!!");
 // }
 
-if (limit >= score) {
-    console.log("Ok good!");
+// if (limit >= score) {
+//     console.log("Ok good!");
 
-} else {
-    console.log("OH nooo");
-}
+// } else {
+//     console.log("OH nooo");
+// }
+
+
+// ----ex-3
+
+// const password = 'azerty'
+
+// if (password.length == 5) {
+//     console.log("The password is secure");
+
+// } else {
+//     console.log(password.length);
+// }
+
+
+
 
 
